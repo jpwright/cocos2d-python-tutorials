@@ -39,7 +39,7 @@ def main():
   global keyboard # Declare this as global so it can be accessed within class methods.
   
   # Initialize the window.
-  director.init(width=800, height=600, do_not_scale=True, resizable=True)
+  director.init(width=500, height=300, do_not_scale=True, resizable=True)
   
   # Create a layer and add a sprite to it.
   player_layer = layer.Layer()
@@ -47,7 +47,7 @@ def main():
   player_layer.add(me)
   
   # Set initial position and velocity.
-  me.position = (200, 200)
+  me.position = (100, 100)
   me.velocity = (0, 0)
   
   # Set the sprite's movement class.

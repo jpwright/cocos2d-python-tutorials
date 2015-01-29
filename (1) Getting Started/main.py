@@ -13,7 +13,7 @@ import pyglet
 from pyglet.window import key
 
 import cocos
-from cocos import actions, layer
+from cocos import actions, layer, sprite, scene
 from cocos.director import director
 
 # Player class
@@ -43,7 +43,7 @@ def main():
   
   # Create a layer and add a sprite to it.
   player_layer = layer.Layer()
-  me = cocos.sprite.Sprite('human-female.png')
+  me = sprite.Sprite('human-female.png')
   player_layer.add(me)
   
   # Set initial position and velocity.
@@ -54,7 +54,7 @@ def main():
   me.do(Me())
 
   # Create a scene and set its initial layer.
-  main_scene = cocos.scene.Scene(player_layer)
+  main_scene = scene.Scene(player_layer)
 
   # Attach a KeyStateHandler to the keyboard object.
   keyboard = key.KeyStateHandler()

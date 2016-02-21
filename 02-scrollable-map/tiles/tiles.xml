@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<resource>
+ <imageatlas size="32x32" file="tilemap.png">
+    <image id="i-square" offset="0,96" />
+    <image id="i-corner-br" offset="32,96" />
+    <image id="i-corner-bl" offset="64,96" />
+    <image id="i-corner-tl" offset="96,96" />
+    <image id="i-corner-tr" offset="128,96" />
+    <image id="i-blank" offset="0,0" />
+ </imageatlas>
+ <tileset>
+    <tile id="square">
+      <image ref="i-square" />
+    </tile>
+    <tile id="corner-br"><image ref="i-corner-br" /></tile>
+    <tile id="corner-bl">
+      <image ref="i-corner-bl" />
+      <property name="bottom-left" type="bool" value="True" />
+    </tile>
+    <tile id="corner-tl"><image ref="i-corner-tl" /></tile>
+    <tile id="corner-tr"><image ref="i-corner-tr" /></tile>
+    <tile id="blank">
+      <image ref="i-blank" />
+      <property name="top" type="bool" value="True" />
+      <property name="left" type="bool" value="True" />
+      <property name="right" type="bool" value="True" />
+      <property name="bottom" type="bool" value="True" />
+    </tile>
+ </tileset>
+</resource>

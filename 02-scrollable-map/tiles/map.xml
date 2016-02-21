@@ -1,0 +1,500 @@
+<resource><requires file="tiles.xml" />
+<rectmap id="map0" origin="0,0,0" tile_size="32x32">
+  <column>
+    <cell tile="corner-tr" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-br" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-br" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-br" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-bl" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-bl" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-bl" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-bl" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-bl" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="corner-bl" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+  <column>
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="square" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+    <cell tile="blank" />
+  </column>
+</rectmap>
+</resource>
